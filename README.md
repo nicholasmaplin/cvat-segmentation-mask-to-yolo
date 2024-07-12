@@ -1,6 +1,4 @@
-Certainly! Below is a sample **readme.md** file for your GitHub repository. You can customize it further based on your specific project details:
 
----
 
 # YOLOv8seg Annotation File Converter
 
